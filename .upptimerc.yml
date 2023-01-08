@@ -1,22 +1,25 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: mongulu-cm  # Your GitHub organization or username, where this repository lives
+repo: Monitor_Mongulu  # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: mongulu blog
+    url: https://blog.mongulu.cm
+  - name: Lobembe
+    url: https://lobembe.mongulu.cm
+  - name: tchoung-te
+    url: https://tchoung-te.mongulu.cm
+  - name: mtchoun-mouh
+    url: https://mtchoun-mouh.mongulu.cm
+  - name: pg2
+    url: https://pg2.mongulu.cm
+    cron: "30 8-23 * * *"  # Only monitor the site between 8:30am and 11:30pm
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /Monitor_Mongulu
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
