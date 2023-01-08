@@ -25,7 +25,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://mongulu-cm.github.io/Monitor_Mongulu)
+[**Visit our status website →**](https://mongulu-cm.github.io/uptime)
 
 ## 📄 License
 
