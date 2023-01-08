@@ -16,6 +16,8 @@ sites:
     cron: "30 8-00 * * *"  # Only monitor the site between 8:30am and 11:30pm
   - name: metabase 
     url: https://metabase.mongulu.cm
+  - name: matomo
+    url: https://matomo.mongulu.cm
     
     
 status-website:
