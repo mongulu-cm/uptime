@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pg2.mongulu.cm.ico",
     "slug": "pg2",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "59.63%",
+    "uptimeDay": "59.63%",
+    "uptimeWeek": "59.63%",
+    "uptimeMonth": "59.63%",
+    "uptimeYear": "59.63%",
     "time": 1008,
     "timeDay": 1008,
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2023-01-08": 0
+      "2023-01-09": 33,
+      "2023-01-08": 55
     }
   },
   {
@@ -126,7 +127,8 @@
     "timeMonth": 610,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2023-01-08": 44
+      "2023-01-09": 33,
+      "2023-01-08": 99
     }
   }
 ]
