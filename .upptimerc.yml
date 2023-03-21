@@ -18,8 +18,6 @@ sites:
     url: https://metabase.mongulu.cm
   - name: matomo
     url: https://matomo.mongulu.cm
-  - name: livehelperchat
-    url: https://livehelperchat.mongulu.cm
     
     
 status-website:
