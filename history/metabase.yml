@@ -1,7 +1,7 @@
 url: https://metabase.mongulu.cm
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2023-05-01T15:52:01.224Z
+status: down
+code: 502
+responseTime: 482
+lastUpdated: 2023-05-01T16:40:53.932Z
 startTime: Sun Jan 08 2023 21:04:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
