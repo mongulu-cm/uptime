@@ -16,7 +16,8 @@ sites:
     url: https://metabase.mongulu.cm
   - name: matomo
     url: https://matomo.mongulu.cm
-    
+  - name: manzi-mfa
+    url: https://manzi-mfa.mongulu.cm   
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
