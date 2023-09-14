@@ -218,19 +218,19 @@
     "url": "https://manzi-mfa.mongulu.cm",
     "icon": "https://icons.duckduckgo.com/ip3/manzi-mfa.mongulu.cm.ico",
     "slug": "manzi-mfa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1833,
-    "timeDay": 1608,
-    "timeWeek": 1626,
-    "timeMonth": 1775,
-    "timeYear": 1833,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1828,
+    "timeDay": 1611,
+    "timeWeek": 1625,
+    "timeMonth": 1770,
+    "timeYear": 1828,
     "dailyMinutesDown": {
-      "2023-09-14": 0
+      "2023-09-14": 18
     }
   }
 ]
