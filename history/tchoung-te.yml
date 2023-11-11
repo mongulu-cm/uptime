@@ -1,7 +1,7 @@
 url: https://tchoung-te.mongulu.cm
-status: up
-code: 200
-responseTime: 1378
-lastUpdated: 2023-11-10T23:04:43.757Z
+status: down
+code: 500
+responseTime: 764
+lastUpdated: 2023-11-11T02:16:27.435Z
 startTime: 2023-01-08T20:54:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
