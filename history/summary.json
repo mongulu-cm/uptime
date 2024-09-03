@@ -24,9 +24,9 @@
     "slug": "lobembe",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "98.09%",
     "time": 4305,
     "timeDay": 3217,
@@ -34,7 +34,6 @@
     "timeMonth": 4514,
     "timeYear": 4288,
     "dailyMinutesDown": {
-      "2024-09-03": 11,
       "2024-08-29": 37,
       "2024-08-22": 38,
       "2024-08-19": 17,
@@ -128,7 +127,8 @@
       "2023-10-27": 17,
       "2023-10-19": 22,
       "2023-10-17": 18,
-      "2023-10-12": 17
+      "2023-10-12": 17,
+      "2023-10-11": 19
     }
   },
   {
@@ -136,9 +136,9 @@
     "url": "https://tchoung-te.mongulu.cm",
     "icon": "https://icons.duckduckgo.com/ip3/tchoung-te.mongulu.cm.ico",
     "slug": "tchoung-te",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
@@ -148,6 +148,7 @@
     "timeMonth": 1206,
     "timeYear": 1027,
     "dailyMinutesDown": {
+      "2024-09-03": 0,
       "2024-07-03": 19,
       "2024-06-26": 177,
       "2024-06-18": 19,
