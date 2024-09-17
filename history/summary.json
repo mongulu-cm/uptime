@@ -22,13 +22,13 @@
     "url": "https://lobembe.mongulu.cm",
     "icon": "https://icons.duckduckgo.com/ip3/lobembe.mongulu.cm.ico",
     "slug": "lobembe",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "98.93%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "98.09%",
-    "time": 4281,
+    "uptimeYear": "98.10%",
+    "time": 4285,
     "timeDay": 2079,
     "timeWeek": 2779,
     "timeMonth": 3662,
@@ -126,8 +126,7 @@
       "2023-11-24": 17,
       "2023-11-16": 57,
       "2023-11-14": 17,
-      "2023-11-11": 16,
-      "2023-11-08": 33
+      "2023-11-11": 16
     }
   },
   {
