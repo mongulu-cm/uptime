@@ -1,7 +1,7 @@
 url: https://matomo.mongulu.cm
-status: up
-code: 200
-responseTime: 4052
-lastUpdated: 2024-09-20T23:07:49.464Z
+status: down
+code: 500
+responseTime: 852
+lastUpdated: 2024-09-21T08:15:07.362Z
 startTime: 2023-01-08T22:21:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
