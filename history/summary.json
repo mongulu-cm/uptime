@@ -22,18 +22,19 @@
     "url": "https://lobembe.mongulu.cm",
     "icon": "https://icons.duckduckgo.com/ip3/lobembe.mongulu.cm.ico",
     "slug": "lobembe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.03%",
-    "time": 3783,
+    "time": 3786,
     "timeDay": 268,
     "timeWeek": 4126,
     "timeMonth": 3257,
     "timeYear": 3932,
     "dailyMinutesDown": {
+      "2025-01-14": 0,
       "2025-01-10": 18,
       "2025-01-09": 20,
       "2025-01-07": 33,
@@ -122,8 +123,7 @@
       "2024-03-17": 17,
       "2024-03-14": 16,
       "2024-03-13": 17,
-      "2024-03-11": 18,
-      "2024-03-03": 16
+      "2024-03-11": 18
     }
   },
   {
@@ -339,7 +339,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/manzi-mfa.mongulu.cm.ico",
     "slug": "manzi-mfa",
     "status": "up",
-    "uptime": "91.88%",
+    "uptime": "91.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
