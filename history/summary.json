@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 658,
-    "timeWeek": 620,
+    "time": 664,
+    "timeDay": 618,
+    "timeWeek": 628,
     "timeMonth": 593,
-    "timeYear": 620,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "lobembe",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "60.16%",
-    "uptimeMonth": "90.48%",
-    "uptimeYear": "98.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "60.24%",
+    "uptimeMonth": "90.50%",
+    "uptimeYear": "98.29%",
     "time": 3828,
-    "timeDay": 8234,
-    "timeWeek": 3547,
-    "timeMonth": 3339,
-    "timeYear": 3899,
+    "timeDay": 595,
+    "timeWeek": 3503,
+    "timeMonth": 3332,
+    "timeYear": 3895,
     "dailyMinutesDown": {
-      "2025-01-30": 8,
       "2025-01-28": 133,
       "2025-01-27": 1422,
       "2025-01-26": 1412,
@@ -123,7 +122,7 @@
       "2024-03-31": 82,
       "2024-03-30": 35,
       "2024-03-25": 37,
-      "2024-03-24": 6
+      "2024-03-24": 28
     }
   },
   {
@@ -137,10 +136,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.86%",
     "uptimeYear": "99.03%",
-    "time": 1012,
-    "timeDay": 1166,
-    "timeWeek": 987,
-    "timeMonth": 932,
+    "time": 1013,
+    "timeDay": 1145,
+    "timeWeek": 1020,
+    "timeMonth": 931,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-01-05": 475,
@@ -176,11 +175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 467,
-    "timeDay": 560,
-    "timeWeek": 509,
-    "timeMonth": 478,
-    "timeYear": 467,
+    "time": 468,
+    "timeDay": 641,
+    "timeWeek": 537,
+    "timeMonth": 479,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2024-11-25": 25
     }
@@ -197,10 +196,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 532,
-    "timeDay": 437,
-    "timeWeek": 434,
+    "timeDay": 435,
+    "timeWeek": 433,
     "timeMonth": 428,
-    "timeYear": 492,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2024-10-01": 94
     }
@@ -216,11 +215,11 @@
     "uptimeWeek": "57.13%",
     "uptimeMonth": "90.13%",
     "uptimeYear": "85.18%",
-    "time": 1874,
-    "timeDay": 1655,
-    "timeWeek": 1222,
-    "timeMonth": 1482,
-    "timeYear": 2006,
+    "time": 1875,
+    "timeDay": 1672,
+    "timeWeek": 1269,
+    "timeMonth": 1384,
+    "timeYear": 2007,
     "dailyMinutesDown": {
       "2025-01-28": 385,
       "2025-01-27": 1440,
@@ -279,8 +278,7 @@
       "2024-04-10": 417,
       "2024-02-04": 990,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1170
+      "2024-02-02": 1440
     }
   },
   {
@@ -294,10 +292,10 @@
     "uptimeWeek": "57.14%",
     "uptimeMonth": "90.14%",
     "uptimeYear": "90.40%",
-    "time": 2033,
-    "timeDay": 4194,
-    "timeWeek": 3722,
-    "timeMonth": 2380,
+    "time": 2034,
+    "timeDay": 1181,
+    "timeWeek": 3757,
+    "timeMonth": 2379,
     "timeYear": 2312,
     "dailyMinutesDown": {
       "2025-01-28": 385,
@@ -337,8 +335,7 @@
       "2024-04-10": 466,
       "2024-02-04": 990,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1170
+      "2024-02-02": 1440
     }
   },
   {
@@ -352,10 +349,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
-    "time": 2014,
-    "timeDay": 2512,
-    "timeWeek": 2032,
-    "timeMonth": 1917,
+    "time": 2015,
+    "timeDay": 2259,
+    "timeWeek": 2119,
+    "timeMonth": 1911,
     "timeYear": 2048,
     "dailyMinutesDown": {
       "2024-07-14": 646,
@@ -378,11 +375,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 1074,
-    "timeWeek": 978,
-    "timeMonth": 961,
-    "timeYear": 956,
+    "time": 958,
+    "timeDay": 1045,
+    "timeWeek": 1003,
+    "timeMonth": 958,
+    "timeYear": 958,
     "dailyMinutesDown": {}
   }
 ]
