@@ -11,8 +11,6 @@ sites:
     url: https://tchoung-te.mongulu.cm
   - name: ai-tchoung-te
     url: https://ai.mongulu.cm
-  - name: mtchoun-mouh
-    url: https://mtchoun-mouh.mongulu.cm
   - name: metabase 
     url: https://metabase.mongulu.cm
   - name: matomo
